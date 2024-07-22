@@ -10,8 +10,7 @@ public class emp
       name="tsunade";
       salary=106106;
     }
-    public void display()
-    {
+    public void display(){
         System.out.println("id="+id);
         System.out.println("name="+name);
         System.out.println("salary="+salary);
